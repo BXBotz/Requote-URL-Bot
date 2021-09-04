@@ -11,3 +11,7 @@ A requote url bot using requests.
 - `BOT_TOKEN` Your bot token from @BotFather
 
 ---
+
+## Credits
+
+[Fayas Noushad](https://github.com/FayasNoushad)
