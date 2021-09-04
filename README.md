@@ -13,6 +13,18 @@ License -> https://github.com/FayasNoushad/Requote-URL-Bot/blob/main/LICENSE
 
 ---
 
+## Deploy
+
+```sh
+git clone https://github.com/FayasNoushad/Image-Search-Bot/tree/main
+cd Requote-URL-Bot
+pip3 install -r requirements.txt
+# <Create Variables appropriately>
+python3 main.py
+```
+
+---
+
 ## Variables
 
 - `API_HASH` Your API Hash from my.telegram.org
