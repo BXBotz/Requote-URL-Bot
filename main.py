@@ -4,4 +4,5 @@
 # All rights reserved by FayasNoushad
 # License -> https://github.com/FayasNoushad/Requote-URL-Bot/blob/main/LICENSE
 
+from requests.utils import requote_uri
 from pyrogram import Client, filters
