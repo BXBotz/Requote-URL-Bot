@@ -35,4 +35,4 @@ python3 main.py
 
 ## Credits
 
-[Fayas Noushad](https://github.com/FayasNoushad)
+- [Fayas Noushad](https://github.com/FayasNoushad)
