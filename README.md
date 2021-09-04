@@ -4,6 +4,15 @@ A requote url bot using requests.
 
 ---
 
+```
+Made with Python3
+(C) @FayasNoushad
+Copyright permission under MIT License
+License -> https://github.com/FayasNoushad/Requote-URL-Bot/blob/main/LICENSE
+```
+
+---
+
 ## Variables
 
 - `API_HASH` Your API Hash from my.telegram.org
